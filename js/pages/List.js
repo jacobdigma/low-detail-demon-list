@@ -122,10 +122,10 @@ export default {
                 // --- MAIN LIST ---
                 { name: "bomboclat", author: "macaroney", verifier: "🇬🇧 poopeyGilbertShoes", points: 200, type: "main", minimum: 68, levelID: "12356478", verification: "ttps://www.youtube.com/watch?v=gok5ShDXxg4", records: [] },
                 // --- EXTENDED LIST ---
-                { name: "Clubstep but you step", author: "RobTop", verifier: "🇻🇳 ifanfzsesf", points: 155, type: "extended", minimum: 78, verification: "https://www.youtube.com/watch?v=gok5ShDXxg4", records: [ { user: "🇬🇧 poopeyGilbertShoes", percent: 100, link: "#" } ] },
+                { name: "Clubstep but you step", author: "RobTop", verifier: "🇻🇳 ifanfzsesf", points: 155, type: "extended", minimum: 78, levelID: "12361478", verification: "https://www.youtube.com/watch?v=gok5ShDXxg4", records: [ { user: "🇬🇧 poopeyGilbertShoes", percent: 100, link: "#" } ] },
 
                 // --- LEGACY LIST ---
-                { name: "abcdefg", author: "adf", verifier: "🇨🇿 gdpayer", points: 0, type: "legacy", verification: "https://www.youtube.com/watch?v=K9rBb0HVvMg", records: [ { user: "🇻🇳 ifanfzsesf", percent: 82, link: "#" } ] }
+                { name: "abcdefg", author: "adf", verifier: "🇨🇿 gdpayer", points: 0, type: "legacy",  levelID: "1235641278",verification: "https://www.youtube.com/watch?v=K9rBb0HVvMg", records: [ { user: "🇻🇳 ifanfzsesf", percent: 82, link: "#" } ] }
          ]
                 }
         
