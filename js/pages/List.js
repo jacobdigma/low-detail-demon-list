@@ -126,7 +126,7 @@ export default {
 
                 // --- LEGACY LIST ---
                 { name: "abcdefg", author: "adf", verifier: "🇨🇿 gdpayer", points: 0, type: "legacy", verification: "https://www.youtube.com/watch?v=K9rBb0HVvMg", records: [ { user: "🇻🇳 ifanfzsesf", percent: 82, link: "#" } ] }
-        }
+        
         ]
         ]
     },
