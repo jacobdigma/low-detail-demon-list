@@ -120,10 +120,11 @@ export default {
             search: '',
             list: [
                 // --- MAIN LIST ---
-                { name: "bomboclat", author: "macaroney", verifier: "🇬🇧 poopeyGilbertShoes", points: 155, type: "main", minimum: 68, levelID: "12345648", verification: "https://www.youtube.com/watch?v=gok5ShDXxg4", records: [{}] },
+                { name: "bomboclat", author: "macaroney", verifier: "🇬🇧 poopeyGilbertShoes", points: 155, type: "main", minimum: 68, levelID: "125648", verification: "https://www.youtube.com/watch?v=gok5ShDXxg4", records: [{}] },
+                { name: "WHENBOMBOGOESKAT", author: "macaroney", verifier: "🇸🇦 ilikebigbananaboy5589", points: 155, type: "main", minimum: 99, levelID: "12345648", verification: "https://www.youtube.com/watch?v=gok5ShDXxg4", records: [{}] },
                 // --- EXTENDED LIST ---
-                { name: "Clubstep but you step", author: "RobTop", verifier: "🇻🇳 ifanfzsesf", points: 155, type: "extended", minimum: 78, levelID: "12361478", verification: "https://www.youtube.com/watch?v=gok5ShDXxg4", records: [ { user: "🇬🇧 poopeyGilbertShoes", percent: 100, link: "#" } ] },
-                { name: "mock the bok", author: "RobTop", verifier: "🇨🇿 gdpayer", points: 155, type: "extended", minimum: 78, levelID: "12361478", verification: "https://www.youtube.com/watch?v=gok5ShDXxg4", records: [ { user: "🇬🇧 poopeyGilbertShoes", percent: 98, link: "#" } ] },
+                { name: "Clubstep but you step", author: "RobTop", verifier: "🇻🇳 ifanfzsesf", points: 155, type: "extended", minimum: 100, levelID: "12361478", verification: "https://www.youtube.com/watch?v=gok5ShDXxg4", records: [ { user: "🇬🇧 poopeyGilbertShoes", percent: 100, link: "#" } ] },
+                { name: "mock the bok", author: "RobTop", verifier: "🇨🇿 gdpayer", points: 155, type: "extended", minimum: 100, levelID: "12361478", verification: "https://www.youtube.com/watch?v=gok5ShDXxg4", records: [ { user: "🇬🇧 poopeyGilbertShoes", percent: 98, link: "#" } ] },
 
                 // --- LEGACY LIST ---
                 { name: "abcdefg", author: "adf", verifier: "🇨🇿 gdpayer", points: 0, type: "legacy",  levelID: "1235641278",verification: "https://www.youtube.com/watch?v=K9rBb0HVvMg", records: [ { user: "🇻🇳 ifanfzsesf", percent: 82, link: "#" } ] }
