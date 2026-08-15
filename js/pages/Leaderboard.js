@@ -173,9 +173,8 @@ export default {
                 // Přidali jsme vlaječky přímo do seznamu povolených, aby je filtr neshazoval!
         const allowedPlayers = [
             '🇬🇧 poopeyGilbertShoes', 
-            '🇨🇿 gdplayer', 
-            '🇨🇿 stetkos', 
-            '🇨🇿 krystof'
+            '🇨🇿 gdpayer', 
+            '🇻🇳 ifanfzsesf', 
         ];
 
 
