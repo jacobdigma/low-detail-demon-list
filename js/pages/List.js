@@ -129,7 +129,6 @@ export default {
          ]
                 }
         
-        ]
     },
        mounted() {
         // Vyfiltrujeme POUZE reálné levely (přeskočíme případné prázdné řádky)
