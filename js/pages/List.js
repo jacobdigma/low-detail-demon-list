@@ -120,7 +120,7 @@ export default {
             search: '',
             list: [
                 // --- MAIN LIST ---
-                { name: "bomboclat", author: "macaroney", verifier: "🇬🇧 poopeyGilbertShoes", points: 200, type: "main", minimum: 68, levelID: "12356478", verification: "ttps://www.youtube.com/watch?v=gok5ShDXxg4", records: [] },
+                { name: "bomboclat", author: "macaroney", verifier: "🇬🇧 poopeyGilbertShoes", points: 200, type: "main", minimum: 68, levelID: "12356478", verification: "https://www.youtube.com/watch?v=gok5ShDXxg4", records: [] },
                 // --- EXTENDED LIST ---
                 { name: "Clubstep but you step", author: "RobTop", verifier: "🇻🇳 ifanfzsesf", points: 155, type: "extended", minimum: 78, levelID: "12361478", verification: "https://www.youtube.com/watch?v=gok5ShDXxg4", records: [ { user: "🇬🇧 poopeyGilbertShoes", percent: 100, link: "#" } ] },
 
