@@ -172,8 +172,8 @@ export default {
         // SEM SE KÓD PODÍVÁ PŘI KONTROLE REKORDŮ - TADY TO MUSÍ BÝT ČISTÉ BEZ VLAJEČEK!
                 // Přidali jsme vlaječky přímo do seznamu povolených, aby je filtr neshazoval!
         const allowedPlayers = [
-            '🇻🇳 trumandigma', 
-            '🇨🇿 earl12', 
+            '🇬🇧 poopeyGilbertShoes', 
+            '🇨🇿 gdplayer', 
             '🇨🇿 stetkos', 
             '🇨🇿 krystof'
         ];
