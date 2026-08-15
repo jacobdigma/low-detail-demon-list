@@ -202,7 +202,7 @@ export default {
                             level: level.name,
                             link: level.verification || "#",
                             type: level.type,
-                            isVerified: true
+                            isVerified: false // <-- ZMĚNĚNO NA FALSE, ABY TO SEDĚLO S REKORDY!
                         });
                     }
                 }
@@ -228,15 +228,16 @@ export default {
 }
 
 
-                            const alreadyAdded = player.demons.some(d => d.level === level.name);
-                            if (!alreadyAdded) {
-                                player.demons.push({
-                                    level: level.name,
-                                    link: record.link || "#",
-                                    type: level.type,
-                                    isVerified: false
-                                });
-                            }
+                const alreadyAdded = player.demons.some(d => d.level === level.name);
+                    if (!alreadyAdded) {
+                        player.demons.push({
+                            level: level.name,
+                            link: level.verification || "#",
+                            type: level.type,
+                            isVerified: false // <-- ZMĚNĚNO NA FALSE, ABY TO SEDĚLO S REKORDY!
+                        });
+                    }
+
                                                 } else {
                             // --- PROGRESS SYSTÉM PODLE TVÉHO VZORCE ---
                             const currentPercent = parseInt(record.percent) || 0;
